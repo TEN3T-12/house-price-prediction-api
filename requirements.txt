@@ -1,7 +1,7 @@
 flask
 numpy
 pandas
-scikit-learn
+scikit-learn==1.2.2
 git-filter-repo==2.47.0
 pygame==2.6.1
 gunicorn
